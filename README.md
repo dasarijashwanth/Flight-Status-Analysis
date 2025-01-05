@@ -1,2 +1,2 @@
 # Flight-Status-Analysis
-![View Documentation](Flight Status Dashboard.pdf)
+[View Documentation](Flight Status Dashboard.pdf)
